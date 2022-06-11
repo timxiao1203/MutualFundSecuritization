@@ -1,0 +1,2 @@
+# MutualFundSecuritization
+Under the mutual fund securitization agreement, one party may provide monthly funding for the commission to brokers selling mutual fund units, up to one year. The purpose of the model is to determine, from a projected stream of future cashflows, whether all Commercial Paper used to fund the commissions to brokers for the sale of mutual funds will be repaid within a period. 
