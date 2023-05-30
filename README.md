@@ -20,6 +20,8 @@ The Retention Account holds collateral towards the repayment of Commercial Paper
 
 References:
 
+https://derivatives.hcommons.org/equity-derivatives/
+
 https://finpricing.com/lib/EqSpread.html
 
 https://osf.io/vzfaw/download
